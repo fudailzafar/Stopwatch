@@ -29,10 +29,6 @@ A simple and responsive web-based stopwatch that allows users to start, stop, an
 4. Use the **stop** button (stop icon) to pause the timer.
 5. Use the **reset** button (reset icon) to reset the timer back to **00:00:00**.
 
-## Preview
-
-![Stopwatch Interface](images/preview.png)
-
 ### Technologies Used
 
 - HTML5 for the structure.
