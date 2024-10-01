@@ -28,9 +28,3 @@ A simple and responsive web-based stopwatch that allows users to start, stop, an
 3. Use the **start** button (play icon) to begin the timer.
 4. Use the **stop** button (stop icon) to pause the timer.
 5. Use the **reset** button (reset icon) to reset the timer back to **00:00:00**.
-
-### Technologies Used
-
-- HTML5 for the structure.
-- CSS3 for styling the interface.
-- JavaScript for controlling the stopwatch functionality.
